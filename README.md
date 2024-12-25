@@ -1,2 +1,2 @@
 # dynamic-pay-slip-generator
-'A web based dynamic pay slip generator with CTC breakdown for efficient payroll management'.
+"A Web-Based Dynamic Pay Slip Generator with CTC Breakdown for Efficient Payroll Management" is a user-friendly application that automates payroll processes for small and medium-sized businesses. It dynamically generates professional pay slips by calculating salaries, allowances, and deductions, offering a clear CTC breakdown into components like basic pay, HRA, and taxes. Built with HTML, CSS, and JavaScript, the platform ensures accuracy, reduces errors, and enhances payroll efficiency, saving time while improving transparency and compliance with payroll regulations.
